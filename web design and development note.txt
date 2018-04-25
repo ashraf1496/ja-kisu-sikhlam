@@ -1,0 +1,285 @@
+	1. photshop dea boro image theke jekono image crop kore near jonno 
+		a.image crop korun
+		b. magic wind tool dea select korun
+		c. magic eraser tool dea delete din
+		d. trim korun
+		e. save for image din
+		
+		
+	2.		a. free psd er jonno https://dartthemes.com/.
+
+			b. free html template er jonno http://www.bestjquery.com/
+			
+			
+	3. youtube video thumbnail image paoar jonno https://img.youtube.com/vi/<insert-youtube-video-id-here>/hqdefault.jpg
+
+
+	4. youtube demo video link https://www.youtube.com/watch?v=aVS4W7GZSq0
+
+	5. google map styling er jonno https://developers.google.com/maps/documentation/javascript/styling
+
+		echara map design dekhar jonno jsfiddle site a gea dekha jabe.
+		
+		map design with jquery:   http://gmap3.net/
+
+	6. medium device and small device a jodi aki column size hoy tobe small device er ta likhlei hobe.
+		jemon - col-md-6 col-sm-6 duita hole sudhu col-sm-6 delei hobe, medium device a o col-sm-6
+		col-md-6 er kaj korbe.
+		
+		
+	7. display:table dele width dite hoy 100%.
+
+	8. col-md-12 te full screen a 23 word thake. orthat lorem23 dele 1'st line hobe ak line.
+
+	9. jquery countdown timer http://hilios.github.io/jQuery.countdown/
+
+	10. bootstrap 4 flex box use kora hoyeche , display table, table cell er poriborte.
+
+	11. font downloader akta site-http://www.dafont.com/
+
+	12. font covert korar site -https://transfonter.org/
+
+	13. bootstrap 4 cheatsheet https://hackerthemes.com/bootstrap-cheatsheet/ by shakir ahmad
+
+	14. color er jonno http://colorhunt.co/ from fb
+
+	15. alternative google fonts of most popular premium 93 fonts http://www.designtheway.com/most-used-fonts-alternative-google-fonts/ 	from google.
+
+	16. css design samples https://tympanus.net/codrops/   (from google);
+
+	17. url short korar jonno - https://goo.gl/  from slack
+
+	18. icon er jonno fontawesome chara https://octicons.github.com/ eta use kora jabe, bootstrap 4 er sathe. from google
+
+	19.bootstrap 4 cheatsheet https://bootstrapcreative.com/resources/bootstrap-4-css-classes-index/ and 
+							https://hackerthemes.com/bootstrap-cheatsheet/
+
+	20. bootstrap snipped er jonno https://bootsnipp.com/ etate bootstrap use kore section designed kora hoyeche
+
+	21. preloader er jonno https://icons8.com/preloaders/ and www.preloaders.net 
+
+
+
+	22. gulp use korar jonno essential command https://travismaynard.com/writing/getting-started-with-gulp 
+		(write these command using windows command promp theke)
+		
+		(dependency create er jonno  : npm init)
+		
+		a. npm install korar jonno command :  npm install 
+		b. install hole start er jonno    :  npm start 
+
+23. a. Create a new github repository in on the command line: 
+		git init
+		git add README.md
+		git commit -m "first commit"
+		git remote add origin git@github.com/asrafuddin/bootstrap4scratch.git
+		git push -u origin master
+		
+	b. Push an existing repository from the command line:
+		git remote add origin git@github.com/asrafuddin/bootstrap4scratch.git
+		git push -u origin master
+		
+
+
+	24. Watch & Compile your Sass with npm- https://github.com/hellobrian/blogs/tree/master/watch-and-compile-your-sass-with-npm
+
+	a.  install our dev-dependencies: npm install -D node-sass nodemon
+	b. add this in package.json : 	 "scripts": {
+									"build-css": "node-sass --include-path scss scss/style.scss   src/css/style.css"
+									},
+	c. now run thin in your terminal:  npm run build-css
+	
+	d. Let’s update our scripts with a watch script. Inside package.json, make your scripts object look like this:
+
+								"scripts": {
+								 "build-css": "node-sass --include-path scss scss/style.scss src/css/style.css",
+								 "watch-css": "nodemon -e scss -x \"npm run build-css\""
+								},
+
+								
+
+	e.	run this: 	$ npm run watch-css
+	
+	*a .network proxy setting remove korar jonno 
+		 npm config rm proxy
+		npm config rm https-proxy
+		
+		NB1- npm k local directory te install dete hobe. globally noy.
+		nb-2: network proxy setting er jonno: npm con
+		
+
+		
+
+	25. kono column er content k vertically center/middle a ante hole - column er 
+		vitor "align-self-center" class use korte hobe. 
+
+
+
+	26. udemy dl install korar system: a. npm install -g udemy-dl
+									b.  udl https://www.udemy.com/COURSE_URL
+									
+
+									
+									
+	27.									SASS INSTALLATION WITH RUBY
+
+						a.sass er website a gea ruby install kore hobe.
+						b. ruby install hole version check korte command prompt a likhun:  ruby -v
+						c.akhon sass install korte likhun:  gem install sass
+						d. sass er version check korte: sass -v 
+						e. project folder create korun.
+						f. projcet folder command prompt a open korun.
+						g.akhon style.scss k style.css er sathe connect korar jonno 
+							likhun: sass --watch path\style.scss:path/style.css 
+						h. now write in scss file and see that automatically compiled 
+							css file.
+							
+								
+	28. live server install er jonno :	a.set google chrome as default browser	 
+										b.npm install -g live-server
+										c.open projcet folder in command prompt
+										d.write: live-server
+										
+										
+	29. gulp,grunt chara bootstrap 4 and sass and browser sync use korar system: 
+
+			a.node js,browser sync er site theke browser sync and sass er site theke ruby gem install kore nei. global install korbo.
+			b. project folder a quick start pack copy kore nei
+			c.project folder a right click kore command prompt open kori.
+			d. sass locally install korar jonno likhki: gem install sass
+			e. sass er version check kori: sass -version
+			f.sass run korar jonno : 
+				scss --watch C:\Users\asraf\Desktop\projecthussy\src\scss\style.scss:C:\Users\asraf\Desktop\projecthussy\src\css\style.css
+				 likhe enter dei.
+			g. onno scss gula o evabe path dia css a convert kora jabe.
+			h.ebar browser sync run korar jonno : src folder a right click kore command prompt open kori
+				and likhi: browser-sync start --server --files "*.html"
+			i. browser a index.html page ta open hobe.
+			
+	30. udemy video download korar jonno google chrome extension "enable right click" add koer nite hobe.
+
+	31. Firefox dea youtube video download korar jonno "easy youtube video downloader express" add on ta install kore nite hobe.
+			r  chrome a "video helper  v9.17" extension ta install kore nite hobe.
+
+	32. live server globally install dar jonno : npm install -g live-server.
+							version chekc er jonno : live-server -v
+			projcet folder ti command prompt a open kore live server run korar jonno: live-server
+
+	33. free slogan maker https://www.shopify.com/tools/slogan-maker/
+
+	34. http://bourbon.io/ is a mixin library of sass 
+
+
+	35. royality free premium image and video sites are
+
+
+			a. www.free-hd-footage.com
+
+			b.www.videos.pexels.com
+
+			c.www.free-video-footage.com
+
+			d.www.coverr.com
+
+			e.www.vimeo.com/groups/freehd
+
+			f.www.negativespace.co
+
+			g.www.freerangestock.com
+
+			h.www.pixabay.com
+
+			i.www.stocksnap.io
+
+			j.www.unsplash.com
+
+	36. some code about npm and browser sync 
+
+		$ npm update minimatch
+		$ npm -v minimatch
+		$ npm install -g npm@3
+		$ npm -v minimatch
+
+
+				how to install sass and gulp
+		npm init
+
+		 npm install browser-sync gulp --save-dev
+		 
+		 npm install --save-dev gulp-sass
+		 
+		 npm install bootstrap@4.0.0-beta.2
+		 
+		 npm config set proxy http://103.230.104.3:8080 
+		 
+		 proxy set korar jonno
+		 
+		 npm config set proxy http://example.com:8080
+		 
+		 
+		 browser-sync start --server --files "css/*.css"
+		 
+		 browser-sync start --server --files "*.html"
+		 
+		 browser-sync start --proxy "myproject.dev" --files "css/*.css"
+
+	37.using fromspree we can send mail or html form can be functional.
+		fromspree address- https://formspree.io/
+		
+		form example-
+							<form action="https://formspree.io/your@email.com"
+						  method="POST">
+							<input type="text" name="name">
+							<input type="email" name="_replyto">
+							<input type="submit" value="Send">
+						</form> 
+						
+			eta use kore monthly ak address a 1000 ta form submit kora jabe.
+		
+	38.html form sending using google app https://github.com/dwyl/html-form-send-email-via-google-script-without-server
+	
+	
+	39. sundor sundor design and icon er jonno https://material.io 
+	
+	40. code share korar easy ekata site holo- https://pastebin.com
+	
+	41. Online a html coding korar jonno akta popular site 
+		holo- https://codehtml.online/ 
+		
+	42. css to scss convert korar akta site holo- http://css2sass.herokuapp.com/
+	
+	43.sublime a javascript code runner install korar jonno
+					{
+			  "cmd": ["C:/Program Files/nodejs/node.exe", "$file"],
+			  "selector": "source.js"
+			}
+			uporer code ta tools>new build system a gia paste kore 
+			sublime er user folder er vitor Node.sublime-build name a save korte hobe,
+			erpor tools>build system> a gia node select kore dete hobe.
+			last a code likhe f7 press korle code run hobe.
+			
+	44. example for ecommerce site design 
+			 https://blog.lemonstand.com/html-projects-with-source-code/
+			 
+	45. sublime a infinite loop stop korar jonno-
+		bindings ("Preferences" - "Key Bindings") and change the line { "keys": ["ctrl+break"], "command": "cancel_build" }, to something like { "keys": ["ctrl+alt+b"], "command": "cancel_build" },. Then the shortcut is CTRL + ALT + B 
+			 
+	
+	46. sublime a comment korar jonno ctrl + / or ctrl+shift+/
+	
+	47. google javascript styleguide https://google.github.io/styleguide/jsguide.html
+	
+	48.
+
+
+
+
+
+
+
+
+
+
+
+
+
