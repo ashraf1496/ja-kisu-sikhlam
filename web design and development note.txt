@@ -269,9 +269,12 @@
 	
 	47. google javascript styleguide https://google.github.io/styleguide/jsguide.html
 	
-	48.
+	48. text now app for pc https://www.textnow.com/downloads
 
-
+	49. WordPress plugin er jonno - http://wpplugindirectory.org/
+	
+	50. kono website kon cms dea toiri ta jannar jonno -builtwith.com
+		gea web site er link ta pase kore dekhte hobe.
 
 
 
