@@ -276,7 +276,18 @@
 	50. kono website kon cms dea toiri ta jannar jonno -builtwith.com
 		gea web site er link ta pase kore dekhte hobe.
 
-
+	51. 	TO STOP ESCAN
+			a.open command prompt>write escan then press enter
+			
+			b. write reload/s then press enter
+			
+			c. wait until escan to be stop 
+			
+			d. after restarting widows  escan will start again
+	52. before installing wamp server firstly install Visual C++ Redistribute
+	
+	53. wamp install er por phpmyAdmin a enter er initial -username -root
+													password- blank
 
 
 
